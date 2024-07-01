@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1719796384
+icon.svg::CompressedTexture2D::5585984425707996230::1719792376::1719792392::1::::<><>::
+::res://levels/::1719796989
+level.tscn::PackedScene::6542516270612110516::1719796989::0::1::::<><>::uid://cjnms00m36tgu::::res://tileset/game_tilesets_1.png<>uid://bhk0ot3hqngji::::res://player/player.tscn
+::res://player/::1719797055
+player-idle.png::CompressedTexture2D::2344333981581619064::1719793174::1719793174::1::::<><>::
+player-jump.png::CompressedTexture2D::5672372716864975405::1719797055::1719797055::1::::<><>::
+player-run.png::CompressedTexture2D::3560183627643134646::1719793174::1719793174::1::::<><>::
+player.tscn::PackedScene::2899930334171879578::1719796989::0::1::::<><>::res://player/player.gd<>uid://8nu3q6ij15vw::::res://player/player-idle.png<>uid://bqytx7b2cg2go::::res://player/player-run.png
+player.gd::GDScript::-1::1719796989::0::1::::<>CharacterBody2D<>::
+::res://tileset/::1719792671
+game_tilesets_1.png::CompressedTexture2D::5432139971422503460::1719792637::1719792671::1::::<><>::
